@@ -1,0 +1,6 @@
+name: FleshServer
+version: '1.0-SNAPSHOT'
+main: org.fleshserver.fleshServer.FleshServer
+api-version: '1.21'
+authors: [ tatsbruh ]
+description: My mind my face its all yours at the end of the day my life my name its all yours to reflect and sustain aw shucks
